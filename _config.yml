@@ -79,5 +79,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:native2012/blog.github.io.git
+  repo: 
+      github: git@github.com:native2012/native2012.github.io.git
+      coding: git@git.dev.tencent.com:wumingyi/wumingyi.git
   branch: master
